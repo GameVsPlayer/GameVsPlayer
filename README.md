@@ -25,8 +25,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   34 mins         ██████████████████░░░░░░░   71.84 % 
-HTML         12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.81 % 
+JavaScript                 39 mins         ███████████████░░░░░░░░░░   59.58 % 
+HTML                       12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Vue.js                     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+TypeScript                 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Nginx configuration file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 <!--END_SECTION:waka-->
 
